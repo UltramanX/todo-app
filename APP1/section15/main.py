@@ -14,6 +14,7 @@ This is a second single line string \
 "
 
 now = time.strftime("%b %d, - %Y %H:%M:%S")
+print("The time below: ")
 print("It's", now)
 
 while True:
