@@ -1,18 +1,6 @@
 from functions import get_todos, write_todos
 import time
 
-text = """
-Principles of Productivity:
-This is a multiline string
-This is a second multiline string
-"""
-
-text = "\
-Principles of Productivity: \
-This is a single line string \
-This is a second single line string \
-"
-
 now = time.strftime("%b %d, - %Y %H:%M:%S")
 print("The time below: ")
 print("It's", now)
