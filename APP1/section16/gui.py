@@ -52,10 +52,8 @@ while True:
             # update and display it on win
             window['todos'].update(values=todos)
 
-        # case "todos":
-        #     window['todo'].update(values=values['todos'][0])
-
-
+        case "todos":
+            window['todo'].update(value=values['todos'][0])
 
         case sg.WIN_CLOSED:
             break
