@@ -1,1 +1,8 @@
-CeroDosTresOchoSeisSieteLastlyPenultimoUltimo
+Cero
+Dos
+Tres
+Ocho
+Seis
+Siete
+Lastly
+Penultimo
